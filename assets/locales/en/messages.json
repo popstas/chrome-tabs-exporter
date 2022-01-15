@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "tabs-exporter"
+    },
+    "appShortName": {
+        "message": "tabs-exporter"
+    },
+    "appDescription": {
+        "message": "Send info about opened tabs to server"
+    }
+}
